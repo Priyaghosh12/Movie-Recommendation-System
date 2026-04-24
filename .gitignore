@@ -1,4 +1,5 @@
 .venv
 .streamlit/secrets.toml
 similarity.pkl
-
+cv.pkl
+vector_matrix.pkl
