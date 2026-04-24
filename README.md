@@ -39,4 +39,9 @@ https://www.kaggle.com/datasets/tmdb/tmdb-movie-metadata/data
 **I’ve performed the following steps in the notebook. You can check it for a better understanding.**
 
 ---
+## 🌐 Live Demo
 
+The project is deployed and can be accessed here:  
+👉 [Click here to view the app](https://movie-recommendation-system-1vhj.onrender.com)
+
+**Note: The app may take some time to load for the first run**
