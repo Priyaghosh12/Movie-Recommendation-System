@@ -1,8 +1,9 @@
 import pickle
 import streamlit as st
 import requests
+import os
 
-OMDB_API_KEY = st.secrets["OMDB_API_KEY"]
+OMDB_API_KEY = os.getenv("OMDB_API_KEY")
 
 # OMDB uses American titles — map UK/international titles to US titles
 TITLE_MAP = {
