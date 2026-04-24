@@ -23,7 +23,7 @@ def load_cv():
 movies = load_movies()
 cv = load_cv()
 
-# ✅ Build vector matrix on the fly (LIGHTWEIGHT, NO PKL NEEDED)
+# Build vector matrix on the fly (LIGHTWEIGHT, NO PKL NEEDED)
 vector = cv.transform(movies['tags'])
 
 
