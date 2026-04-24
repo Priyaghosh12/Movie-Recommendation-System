@@ -86,7 +86,7 @@ st.header('🎬 Movie Recommendation System')
 
 movies = pickle.load(open('movies.pkl', 'rb'))
 if not os.path.exists("similarity.pkl"):
-    url = "https://drive.google.com/uc?id=1Eln3Zf5wx99Ra3ScCEmI6Wf5aRqTkYTI"
+    url = "https://www.dropbox.com/scl/fi/qi7tanbwec7fiz46qce1q/similarity.pkl?rlkey=ayt7qfng0z3i4bxn18u7iwa57&st=05n7ullf&dl=1"
     r = requests.get(url)
     with open("similarity.pkl", "wb") as f:
         f.write(r.content)
