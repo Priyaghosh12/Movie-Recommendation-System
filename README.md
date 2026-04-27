@@ -4,14 +4,14 @@ A content based movie recommendation system built using the TMDB 5000 dataset. I
 
 ---
 
-## 🚀 Features
+## Features
 - Recommends movies similar to a selected movie  
 - Content-based filtering approach  
 - Fast and simple recommendations  
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 - Python  
 - Pandas  
 - NumPy  
@@ -20,7 +20,7 @@ A content based movie recommendation system built using the TMDB 5000 dataset. I
 
 ---
 
-## 📂 Dataset
+## Dataset
 - TMDB 5000 Movie Dataset
 
 **Dataset link**  
@@ -28,7 +28,7 @@ https://www.kaggle.com/datasets/tmdb/tmdb-movie-metadata/data
 
 ---
 
-## ⚙️ How It Works
+## How It Works
 - Data cleaning and preprocessing  
 - Feature extraction 
 - Text processing using NLP techniques  
@@ -39,7 +39,7 @@ https://www.kaggle.com/datasets/tmdb/tmdb-movie-metadata/data
 **I’ve performed the following steps in the notebook. You can check it for a better understanding.**
 
 ---
-## 🌐 Live Demo
+## Live Demo
 
 The project is deployed and can be accessed here:  
 👉 [Click here to view the app](https://movie-recommendation-system-1vhj.onrender.com)
